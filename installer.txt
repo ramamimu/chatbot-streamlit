@@ -1,0 +1,7 @@
+pip3 install streamlit
+pip3 install langchain
+pip3 install langchain_openai
+pip3 install pypdf
+pip3 install python-dotenv
+pip3 install sentence-transformers
+pip3 install faiss-cpu
